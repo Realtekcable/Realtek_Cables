@@ -25,6 +25,10 @@ header {
   text-transform: uppercase;
 }
 
+nav .menu :hover {
+  color: #00b894;
+}
+
 nav .logo {
   width: 25%;
   text-align: center;
